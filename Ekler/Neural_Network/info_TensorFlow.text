@@ -1,0 +1,11 @@
+TensorFlow
+Makine öğrenmesi için Google'un yayınladığı açık kaynaklı bir kütüphanedir.
+
+TensorFlow ile yapılan bir örnek:
+Bu örnekte el yazısı sayıları inceleyerek farklı el yazılarından sayı çıkarımı yapılabiliyor.
+Proje sayfası: https://www.tensorflow.org/versions/r0.11/tutorials/mnist/beginners/
+
+TensorFlow Çalışma Alanı:
+Sinir ağlarının nasıl çalıştığını gösteren bir sayfadır.
+Yapay Sinir ağları yapılarını ve nasıl çalıştıklarını bu sayfadan inceleyerek öğrenebiliriz.
+Proje Sayfası: http://playground.tensorflow.org

@@ -1,0 +1,8 @@
+Arda Mavi - Git Komutları
+
+git status
+git add <FileName>
+git commit -am "<CommitTitle>"
+git push -u origin master
+git pull --all
+
