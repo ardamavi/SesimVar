@@ -4,5 +4,13 @@ git status
 git add <FileName>
 git commit -am "<CommitTitle>"
 git push -u origin master
+
 git pull --all
 
+# Git LFS:
+git lfs install
+git lfs track "<FileName>"
+git add .gitattributes
+git add <FileName>
+git commit -am "<CommitTitle>"
+git push -u origin master
